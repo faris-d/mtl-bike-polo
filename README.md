@@ -19,13 +19,13 @@ Project inspired by CodeCademy based on an actual open ended project in their Fu
 * EJS6
 
 ## Project Goals
-* Building a local club group page that will dynamically respond to adjustments to the size of the screen! The project should demonstrate many of the responsive design tools learned in the course such as: the use of percentages and relative units, such as em and rem, in the CSS to size and position page elements. Also it should incorporate media queries to resize elements based on the size of the screen at certain viewing breakpoints. 
+* Building a local club group page that will dynamically respond to adjustments to the size of the screen! The project should demonstrate many of the responsive design tools learned in the course namely, the use of percentages and relative units, such as em and rem, in the CSS to size and position page elements. The site should incorporate media queries to resize elements based on the size of the screen at certain viewing breakpoints. 
 
 ## Status
 Project is: *_in progress_*
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./images/screenshot.png)
 
 ## Credits
 The images were sourced from the mtlbikepolo [fb page](https://www.facebook.com/mtlbikepolo), [IG](https://www.instagram.com/montrealbikepolo/?fbclid=IwAR2tdFEtlZJb2atHn5LFiE2HrJNsmuP3Kt5btAdL4ZDzly66BdcYNzyXSd4) account as well as [Unsplash](https://unsplash.com/). 
